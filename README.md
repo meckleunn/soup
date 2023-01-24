@@ -15,4 +15,4 @@ To add to this issue list, DM Meckle#0001 on Discord
  - Unicorns
  - Utilize labels to try and make the list as accurate as possible 
 
-# [View List](https://github.com/meckleunn/soup/issues) [Project Board](https://github.com/users/meckleunn/projects/1)
+# [View List](https://github.com/meckleunn/soup/issues) / /  [Project Board](https://github.com/users/meckleunn/projects/1)
